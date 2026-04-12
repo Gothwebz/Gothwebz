@@ -26,6 +26,8 @@ I have organized this portfolio following a structured 5-module roadmap to demon
 - Unidad 4: Resiliencia y Servicios Recurrentes
 - Unidad 5: Negocio, Legalidad y Visibilidad
 
+---
+
 ## Contact
-- LinkedIn: [www.linkedin.com/in/fabian2ramos]
-- Email: [fabianmauricio125@hotmail.com]
+- LinkedIn: [www.linkedin.com/in/fabian2ramos](https://www.linkedin.com/in/fabian2ramos)
+- Email: fabianmauricio125@hotmail.com
