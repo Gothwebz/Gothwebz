@@ -1,33 +1,28 @@
-# Cybersecurity Home Lab & Portfolio
+# Cybersecurity Portfolio & Proof of Concept (PoC) Labs
 
-This repository contains all my practical projects, labs and progress as I build strong foundations in Cybersecurity.
+This repository contains the technical documentation of my hands-on implementations, network architecture designs, and audits, demonstrating solid foundations in Operational Cybersecurity.
 
-I am currently:
-- Pursuing the **Google Cybersecurity Professional Certificate** (Module 3 of 8)
-- Studying **3rd Semester** of the Cybersecurity Technician program at Instituto AIEP – Universidad Andrés Bello (Chile)
+**Professional Profile:**
+Independent IT Consultant with a hybrid background (Automotive Mechanics & Cybersecurity). I apply the precision of physical hardware diagnostics to the protection of logical infrastructures. Currently focused on bringing enterprise-grade security to Small and Medium Businesses (SMBs).
 
-I have organized this portfolio following a structured 5-module roadmap to demonstrate hands-on skills in:
-
-- Network Security and VLAN Segmentation
-- Defensive Architecture and Zero Trust principles
-- Perimeter Hardening and VPN implementation
-- Endpoint Protection and Anti-Ransomware
-- Cloud Security (Microsoft 365) and Identity Management
-- Backups 3-2-1 Strategy, Patch Management and Business Continuity
-
-**Goal:** Develop professional-level skills with the aim of launching my own Cybersecurity EIRL and providing high-quality services to small and medium businesses.
+**Academic Milestones & Certifications:**
+* Pursuing the **Google Cybersecurity Professional Certificate** (Module 3 of 8).
+* 2nd Year Cybersecurity Technician Student - Instituto AIEP.
 
 ---
 
-## Current Roadmap Progress
-- Unidad 1: Arquitectura Defensiva & Redes (In Progress)
-- Unidad 2: Hardening y Acceso Externo
-- Unidad 3: Endpoint, Cloud (M365) & Identidad
-- Unidad 4: Resiliencia y Servicios Recurrentes
-- Unidad 5: Negocio, Legalidad y Visibilidad
+### 🗺️ Technical Roadmap & Documentation
+
+*My labs and use cases are organized through a structured 5-phase approach:*
+
+- [ ] **Unit 1: Defensive Architecture & Network Segmentation** *(In Progress)*
+- [ ] **Unit 2: Perimeter Hardening & VPN Implementation**
+- [ ] **Unit 3: Endpoint Security, Cloud (M365) & Identity Management**
+- [ ] **Unit 4: Resilience, 3-2-1 Backups & Business Continuity**
+- [ ] **Unit 5: Legal Compliance & Business Documentation**
 
 ---
 
-## Contact
-- LinkedIn: [www.linkedin.com/in/fabian2ramos](https://www.linkedin.com/in/fabian2ramos)
-- Email: fabianmauricio125@hotmail.com
+### 📬 Contact
+* **LinkedIn:** [linkedin.com/in/fabian2ramos](https://www.linkedin.com/in/fabian2ramos)
+* **Email:** [fabianmauricio125@hotmail.com](mailto:fabianmauricio125@hotmail.com)
