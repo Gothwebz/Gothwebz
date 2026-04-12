@@ -1,2 +1,1 @@
-# Portfolio_v0
 # Cybersecurity Home Lab & Portfolio  This repository contains all my practical projects and progress as I level up my skills in Cybersecurity.  After one year self-studying the field, I decided to organize everything here in a clear, structured way (5-module roadmap) to demonstrate real applied knowledge in areas such as VLAN segmentation, perimeter hardening, endpoint protection, backups 3-2-1, M365 security and more.  Goal: Launch my own cybersecurity EIRL in 2027 and help small businesses protect their networks.
