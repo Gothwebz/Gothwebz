@@ -25,4 +25,4 @@ Independent IT Consultant with a hybrid background (Automotive Mechanics & Cyber
 
 ### 📬 Contact
 * **LinkedIn:** [linkedin.com/in/fabian2ramos](https://www.linkedin.com/in/fabian2ramos)
-* **Email:** [fabianmauricio125@hotmail.com](mailto:fabianmauricio125@hotmail.com)
+* **Gmail:** [fabianmauricio125@hotmail.com](mailto:fabian.infosec@gmail.com)
